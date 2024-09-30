@@ -5,8 +5,8 @@ from typing import Optional
 
 import numpy as np
 
-import gymnasium as gym
-from gymnasium import spaces
+import gym
+from gym import spaces
 
 
 class MatrixMDPEnv(gym.Env):
