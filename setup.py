@@ -5,7 +5,7 @@ _VERSION = "1.1.1"
 short_description = "An OpenAI gym / Gymnasium environment to seamlessly create discrete MDPs from matrices."
 
 REQUIRED_PACKAGES = [
-    "gymnasium >= 0.26.2",
+    "gym == 0.26.2",
     "numpy >= 1.19.5",
 ]
 
